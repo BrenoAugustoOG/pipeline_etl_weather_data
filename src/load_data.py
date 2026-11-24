@@ -17,8 +17,8 @@ load_dotenv(env_path)
 user = os.getenv("user")
 password = os.getenv("password")
 database = os.getenv("database")
-# host = 'host.docker.internal'
-host = "localhost"
+# Inside Airflow, localhost is the container. The weather database runs on the Mac.
+host = "host.docker.internal" if Path("/.dockerenv").exists() else "localhost"
 
 
 def get_engine():
