@@ -1,28 +1,5 @@
 # 🌤️ Pipeline ETL - Dados Climáticos de São Paulo
 
-[![YouTube](https://img.shields.io/badge/YouTube-@vbluuiza-red?style=flat&logo=youtube)](https://youtube.com/@vbluuiza)
-[![Instagram](https://img.shields.io/badge/Instagram-@vbluuiza-E4405F?style=flat&logo=instagram)](https://www.instagram.com/vbluuiza)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vbluuiza-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/vbluuiza/)
-
-
-
-> Pipeline ETL automatizado para coleta, transformação e armazenamento de dados meteorológicos em tempo real da cidade de São Paulo.
-
----
-
-## 🔗 Links Importantes do Tutorial
-
-| 📚 Recurso | 🔗 Link |
-|-----------|--------|
-| 📺 **Vídeo no YouTube** | [Assistir Tutorial Completo](https://www.youtube.com/watch?v=I8qPqbXQBDU) |
-| 📄 **Documentação Completa** | [Google Docs - Conceitos e Requisitos](https://docs.google.com/document/d/1SqT-7KUuP8EACgtFjrYBQRxEFlCWcyyDE29-CXqRNfg/edit?usp=sharing) |
-| 💻 **Repositório GitHub** | [pipeline_etl_weather_data_tutorial_youtube](https://github.com/vbluuiza/pipeline_etl_weather_data_tutorial_youtube) |
-| 🎨 **Padrão de Commits** | [Guia Completo com Emojis](https://fair-organ-4e1.notion.site/Guia-Completo-de-Tipos-de-Commits-com-Emojis-1fbb292b4a8d80a685c6d7f6796e3fe5) |
-| 📱 **Instagram** | [@vbluuiza](https://www.instagram.com/vbluuiza) |
-| 💼 **LinkedIn** | [@vbluuiza](https://www.linkedin.com/in/vbluuiza/) |
-
----
-
 ## 📋 Índice
 
 - [Sobre o Projeto](#-sobre-o-projeto)
@@ -41,12 +18,9 @@
 
 ## 🎯 Sobre o Projeto
 
-Este projeto foi desenvolvido para o canal [**@vbluuiza**](https://youtube.com/@vbluuiza) com o objetivo de demonstrar a construção de um **pipeline ETL completo** utilizando as melhores práticas de Engenharia de Dados.
+Este projeto foi desenvolvido com o objetivo de demonstrar a construção de um **pipeline ETL completo** utilizando as melhores práticas de Engenharia de Dados.
 
 O pipeline coleta dados meteorológicos da API OpenWeatherMap a cada hora, transforma os dados para um formato estruturado e os armazena em um banco de dados PostgreSQL para análises futuras.
-
-### 🎥 Assista no YouTube
-> 🔴 **[Assistir Tutorial Completo](https://www.youtube.com/@vbluuiza)**
 
 ---
 
